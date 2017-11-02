@@ -1,3 +1,5 @@
+Modified example to correctly configure the precision of the device. Previously the precision setting in the example didn't work and it defaulted to normal precision.
+
 Sparkfun T5403 Barometric Sensor Breakout Arduino Library
 =======================================================
 
